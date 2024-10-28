@@ -31,4 +31,4 @@ def guess_number(x):
         else:
             print("Congratulations! You have guessed the number correctly!")
         
-guess_number(40)
+guess_number(10)

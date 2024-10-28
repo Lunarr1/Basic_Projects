@@ -5,7 +5,7 @@ def square():
             if number > 1 :
                 break
             else:
-                print(f"Please enter a number thats more than 1!")
+                print("Please enter a number thats more than 1!")
         except ValueError:
             print("That is not a number. Please Try Again.")
 

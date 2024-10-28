@@ -8,7 +8,7 @@ def factorial(n):
 def main():
     while True:
         try:
-            n = int(input("Input a number for factorial : "))
+            n = int(input(f"Input a number for factorial : "))
             if n >= 0:
                 break
             else:
